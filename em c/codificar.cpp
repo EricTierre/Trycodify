@@ -12,7 +12,7 @@ map<char, vector<pair<char, char>>>::iterator it;
 
 //map<char, pair<queue<int>, vector<pair<char, char>>>> grafo;
 
-
+//something
 
 vector<queue<int>> vetor(256);
 char inicio;
